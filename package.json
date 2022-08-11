@@ -1,0 +1,28 @@
+{
+  "name": "nft-marketplace-practice-project-01",
+  "version": "1.0.0",
+  "description": "NFT marketplace with Polygon, Next.js, Tailwind, Solidity, Hardhat, Ethers.js, and IPFS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haz3141/nft-marketplace-practice-project-01.git"
+  },
+  "author": "haz3141",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haz3141/nft-marketplace-practice-project-01/issues"
+  },
+  "homepage": "https://github.com/haz3141/nft-marketplace-practice-project-01#readme",
+  "dependencies": {
+    "next": "^12.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
