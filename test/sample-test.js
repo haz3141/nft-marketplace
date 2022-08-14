@@ -1,5 +1,3 @@
-const { ethers } = require("hardhat")
-
 describe("NFTMarket", function() {
     it("Should create and execute market sales", async function() {
         // Deploy the marketplace
@@ -19,7 +17,7 @@ describe("NFTMarket", function() {
         const [_, buyerAddress] = await ethers.getSigners()
 
         // Execute sale of token to another user
-        await nftMarketplace.connect(buyerAddress).createMarketSale(1, auctionPrice, { value: auctionPrice })
+        await nftMarketplace.connect(buyerAddress).createMarketSale(1, { value: auctionPrice })
 
         // Resell a token
         await nftMarketplace.connect(buyerAddress).resellToken(1, auctionPrice, { value: listingPrice })
