@@ -10,7 +10,7 @@ Code: https://github.com/dabit3/polygon-ethereum-nextjs-marketplace/
 ```
 JS Libraries: Next, Ethers, Chai, Hardhat-Ehters, Hardhat-Waffle, Axios, Web3Modal, Tailwind CSS, IPFS HTTP Client
 Technologies: IPFS, Solidity, Polygon, OpenZeppelin, Hardhat, Waffle, The Graph
-Start: 08/11/2022 - Around Noon
+Start: 08/11/2022 - 13:00
 Code: https://github.com/haz3141/nft-marketplace-practice-project-01
 ```
 
