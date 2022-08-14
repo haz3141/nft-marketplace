@@ -1,4 +1,4 @@
-# nft-marketplace-practice-project-01
+# nft-marketplace-practice-project-00
 Full Stack NFT marketplace built using Next.js, IPFS, Solidity, and Polygon
 
 ```
